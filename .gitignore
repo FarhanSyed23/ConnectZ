@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Executables and Installers
+windows/*.exe
+linux/*.sh
+macos/*.app
+
+# Virtual environments
+venv/
+env/
+
+# IDEs and Editors
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
