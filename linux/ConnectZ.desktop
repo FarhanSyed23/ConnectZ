@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=ConnectZ
+Exec=/home/vboxuser/Downloads/ConnectZ/ConnectZ-x86_64.AppImage
+Icon=/home/vboxuser/Downloads/ConnectZ/connectz.png
+Comment=ConnectZ Game inspired by Connect4
+Categories=Game;
+Terminal=false
