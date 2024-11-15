@@ -19,13 +19,25 @@ Instructions on how to install ConnectZ on various platforms:
 1. Download the installer from the Releases section.
 2. Run the installer and follow the on-screen instructions.
 
+<p align="center">
+    <img width="800" src="https://github.com/FarhanSyed23/ConnectZ/blob/main/screenshots/Screenshot%202024-10-29%20000304.png" alt="Windows App">
+</p>
+
 ### Linux
 1. Download the `.sh` script from the Releases section.
 2. Execute the script with `sh filename.sh` in the terminal to install the game.
 
+<p align="center">
+    <img width="800" src="https://github.com/FarhanSyed23/ConnectZ/blob/main/screenshots/Screenshot%202024-11-01%20013810.png" alt="Linux App">
+</p>
+
 ### MacOS
 1. Download the `.app` file from the Releases section.
 2. Drag and drop the file into your Applications folder.
+
+<p align="center">
+    <img width="800" src="https://github.com/FarhanSyed23/ConnectZ/blob/main/screenshots/Picture2.png" alt="MacOS App">
+</p>
 
 ## Features
 
